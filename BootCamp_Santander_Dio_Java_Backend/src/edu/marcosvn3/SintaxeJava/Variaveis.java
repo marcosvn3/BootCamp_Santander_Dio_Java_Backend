@@ -11,7 +11,7 @@ public class Variaveis {
 				
 		
 		//variaveis seguem uma estrutura Base
-		// Tipo nomeVariavel = valor/atribuição
+		// <Tipo> <nomeVariavel> = <valor/atribuição>
 		// ex:
 				int idade =24;
 		
