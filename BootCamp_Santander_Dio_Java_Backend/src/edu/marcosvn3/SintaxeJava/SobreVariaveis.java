@@ -8,6 +8,7 @@ public class SobreVariaveis {
 		// ex:
 				int anoFabricacao;
 				String nomeTitular;
+				
 		
 		//variaveis seguem uma estrutura Base
 		// Tipo nomeVariavel = valor/atribuição
