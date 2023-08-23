@@ -1,6 +1,6 @@
 package edu.marcosvn3.SintaxeJava;
 
-public class SobreVariaveis {
+public class Variaveis {
 
 	public static void main(String[] args) {
 		//Variaveis seguem o padrao camelCase
