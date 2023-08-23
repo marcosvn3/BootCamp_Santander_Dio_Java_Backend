@@ -18,6 +18,12 @@ public class SobreVariaveis {
 		// Valor da variavel é opcional
 		// ex:
 				int ano;
+				
+		//Porem para variaves constantes usa-se a letra MAIUSCULA
+		//E a palavra reservada FINAl
+		// ex:
+				final double PI = 3.14159;
+				final String BR = "Brasil";
 	}
 
 }
