@@ -1,4 +1,4 @@
-package edu.marcosvn3.ControleFluxo;
+package edu.marcosvn3.ControleFluxo.EstruturasCondicionais;
 
 public class CondicionalTernaria {
 
