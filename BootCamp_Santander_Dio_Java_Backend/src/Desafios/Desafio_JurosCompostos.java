@@ -1,4 +1,4 @@
-package edu.marcosvn3.Desafios;
+package Desafios;
 import java.util.Scanner;
 public class Desafio_JurosCompostos {
 	    public static void main(String[] args) {

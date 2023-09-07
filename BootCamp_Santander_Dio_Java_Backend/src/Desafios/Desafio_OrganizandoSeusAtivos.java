@@ -1,4 +1,4 @@
-package edu.marcosvn3.Desafios;
+package Desafios;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
