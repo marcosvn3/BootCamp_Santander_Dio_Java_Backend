@@ -13,7 +13,7 @@ public class Desafio_CondicionalmenteRico {
 	    //TODO: Criar as condições necessárias para impressão da saída, vide tabela de exemplos.
 	    int saldoDisponivel = saldoTotal - valorSaque;
 	    
-	    if(saldoTotal > valorSaque){
+	    if(saldoTotal >= valorSaque){
 	      System.out.println("Saque realizado com sucesso. Novo saldo: "+saldoDisponivel);
 	    }else{
 	      System.out.println("Saldo insuficiente. Saque nao realizado!");
