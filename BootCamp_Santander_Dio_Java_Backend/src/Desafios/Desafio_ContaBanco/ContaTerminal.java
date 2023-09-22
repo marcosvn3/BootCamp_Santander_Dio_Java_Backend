@@ -1,4 +1,4 @@
-package Desafio_ContaBanco;
+package Desafios.Desafio_ContaBanco;
 
 import java.util.Scanner;
 

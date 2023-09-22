@@ -1,4 +1,4 @@
-package Desafio_Contador;
+package Desafios.Desafio_Contador;
 
 import java.util.Scanner;
 
