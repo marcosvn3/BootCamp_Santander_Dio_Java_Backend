@@ -11,6 +11,7 @@ public class Desafio_CondicionalmenteRico {
 	    int valorSaque = scanner.nextInt();
 
 	    //TODO: Criar as condições necessárias para impressão da saída, vide tabela de exemplos.
+		  //TODO: teste no intellij
 	    int saldoDisponivel = saldoTotal - valorSaque;
 	    
 	    if(saldoTotal >= valorSaque){
