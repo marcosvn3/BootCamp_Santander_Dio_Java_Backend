@@ -7,6 +7,8 @@ import java.util.function.Function;
 
 /**
  * Representa uma função que aceita um argumento do tipo T e retorna um resultado do tipo R.
+ * TODO: Function<Tipo entrada, TipoSaida> ;
+ * 
  * É utilizada para transformar, ou mapear os elementos do Stream em outros valores, ou tipos.
  */
 public class FunctionExample {
