@@ -1,4 +1,4 @@
-package edu.marcosvn3.SintaxeJava.Operadores;
+package edu.SintaxeJava.Operadores;
 
 public class Unarios {
 

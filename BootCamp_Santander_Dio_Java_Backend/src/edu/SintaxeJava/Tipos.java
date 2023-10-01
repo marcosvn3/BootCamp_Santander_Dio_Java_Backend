@@ -1,4 +1,4 @@
-package edu.marcosvn3.SintaxeJava;
+package edu.SintaxeJava;
 
 public class Tipos {
 	

@@ -1,4 +1,4 @@
-package edu.marcosvn3.ControleFluxo.EstruturasRepetição;
+package edu.ControleFluxo.EstruturasRepetição;
 
 public class LaçoForEmArray {
 

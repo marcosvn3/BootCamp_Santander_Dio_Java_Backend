@@ -1,4 +1,4 @@
-package edu.marcosvn3.ControleFluxo.EstruturasExcepcionais;
+package edu.ControleFluxo.EstruturasExcepcionais;
 import java.util.Scanner;
 
 

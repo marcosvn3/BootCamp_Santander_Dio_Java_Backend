@@ -1,4 +1,4 @@
-package edu.marcosvn3.SintaxeJava.MetodoExercicio_SmartTV;
+package edu.SintaxeJava.MetodoExercicio_SmartTV;
 
 public class SmartTv {
 	private boolean ligada = false;

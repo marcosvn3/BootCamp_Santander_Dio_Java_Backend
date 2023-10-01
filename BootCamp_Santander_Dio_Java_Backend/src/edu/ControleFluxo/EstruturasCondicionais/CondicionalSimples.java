@@ -1,4 +1,4 @@
-package edu.marcosvn3.ControleFluxo.EstruturasCondicionais;
+package edu.ControleFluxo.EstruturasCondicionais;
 
 public class CondicionalSimples {
 
