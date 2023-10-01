@@ -12,7 +12,8 @@ import java.util.function.Function;
  * É utilizada para transformar, ou mapear os elementos do Stream em outros valores, ou tipos.
  */
 public class FunctionExample {
-  public static void main(String[] args) {
+  @SuppressWarnings("unused")
+public static void main(String[] args) {
     // Criar uma lista de números inteiros
     List<Integer> numeros = Arrays.asList(1, 2, 3, 4, 5);
 
