@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class TratandoExceções {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		//Exçeções
 		//Quando ocorre um erro, o Java normalmente para e gera uma mensagem de erro.
@@ -27,6 +28,7 @@ public class TratandoExceções {
 			int idade = input.nextInt();
 			
 			System.out.println("Concluido com sucesso!");
+			System.out.println("Nome:"+nome+" Idade:"+idade);
 			}
 		catch(Exception e) {// precisamos saber qual exceção
 			  // bloco de código que captura as exceções que podem acontecer
